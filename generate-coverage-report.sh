@@ -1,6 +1,6 @@
-rm -rf /Volumes/compiler/projects/diffonly-cov/coverage
-rm /Volumes/compiler/projects/diffonly-cov/index.*
-rm /Volumes/compiler/projects/diffonly-cov/sty*
+rm -rf /Volumes/compiler/projects/swift-autodiff-cov/coverage
+rm /Volumes/compiler/projects/swift-autodiff-cov/index.*
+rm /Volumes/compiler/projects/swift-autodiff-cov/sty*
 
 
 # Regexes: Match swift/*/*/SILOptimizer/Differentiation/*
